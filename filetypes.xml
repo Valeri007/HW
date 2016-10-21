@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Hm1" type="CLASS" />
+      <mapping pattern="Sequence1" type="CLASS" />
+      <mapping pattern="Sequence_1" type="PLAIN_TEXT" />
+      <mapping pattern="Hm_1" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
